@@ -1,4 +1,4 @@
-# Chatting_with.Node
+# chattingService
 
 채팅 서비스 토이 프로젝트
 
